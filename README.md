@@ -1,8 +1,8 @@
-# 🏥 Aarogya.me – Your AI Health Companion
+# 🏥 Aarogya AI – Your AI Health Companion
 
-**Built with ❤️ for Bharat**
+**Built at Suprathon for Bharat**
 
-Aarogya.me is a comprehensive AI-powered health assistant platform tailored for _Bharat_. It aims to simplify healthcare access using smart technology – available in your browser, on your mobile, and in your language. Be it sleep, skin, medicine, or emergency care – _Aarogya has your back_.
+Aarogya AI is a comprehensive AI-powered health assistant platform tailored for _Bharat_. It aims to simplify healthcare access using smart technology – available in your browser, on your mobile, and in your language. Be it sleep, skin, medicine, or emergency care – _Aarogya has your back_.
 
 ---
 
@@ -27,7 +27,7 @@ Aarogya.me is a comprehensive AI-powered health assistant platform tailored for 
   - 🩺 Condition (e.g., acne, eczema)
   - 📉 Severity level
   - 🧴 Care tips & treatment suggestions
-- Powered by: Gemini 1.5 Flash
+- Powered by: Custom ML Models
 
 ---
 
@@ -81,7 +81,7 @@ Aarogya.me is a comprehensive AI-powered health assistant platform tailored for 
 
 | Frontend          | Backend             | AI/ML & APIs      | Database   |
 | ----------------- | ------------------- | ----------------- | ---------- |
-| Next.js (App Dir) | Node.js + Next API  | Gemini 1.5, LLaMA | Supabase   |
+| Next.js (App Dir) | Node.js + Next API  | ML Models, LLaMA | Supabase   |
 | Tailwind CSS      | REST APIs + Edge FN | Google Maps API,  | PostgreSQL |
 | Chart.js          | TypeScript          |                   |            |
 
@@ -115,7 +115,7 @@ _Aarogya.me_ is built to assist **rural families, students, senior citizens, and
 
 ```bash
 git clone https://github.com/your-username/aarogya.me.git
-cd aarogya.me
+cd aarogya
 npm install
 npm run dev
 ```
